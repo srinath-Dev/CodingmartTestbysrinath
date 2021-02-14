@@ -53,7 +53,7 @@
     <td>First About Screen </td>
   </tr>
   <tr>
- <img src="https://github.com/srinath-Dev/CodingmartTestbysrinath/blob/master/Screenshot_1613318374.png" width="200" />
+ <td><img src="https://github.com/srinath-Dev/CodingmartTestbysrinath/blob/master/Screenshot_1613318374.png" width="200" /></td>
     
   </tr>
  </table>
