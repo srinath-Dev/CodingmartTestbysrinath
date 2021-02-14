@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.srinathdev.codemartsrinath">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tableemployee"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/tableemployee"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CodemartSrinath">
+        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".MaterialActivty" />
+        <activity android:name=".TimeSheetActivity" />
+        <activity android:name=".EmployeeTableActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

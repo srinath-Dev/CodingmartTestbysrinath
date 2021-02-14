@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64362903182",
+    "project_id": "codemartsrinath",
+    "storage_bucket": "codemartsrinath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64362903182:android:be2c1e74148573d35cfbdf",
+        "android_client_info": {
+          "package_name": "com.srinathdev.codemartsrinath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64362903182-l5mjjk72c8s2ur80q6knib8n4vi37ntl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkWUyEB5uGEN2mIPDUxCbA4PL92-xiGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64362903182-l5mjjk72c8s2ur80q6knib8n4vi37ntl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

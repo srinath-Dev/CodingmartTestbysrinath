@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CodemartSrinath</string>
+
+    <string name="promt">Select your Position</string>
+
+    <string name="hour">Hours</string>
+
+    <string-array name="country_arrays">
+        <item>Android Dev</item>
+        <item>Web Dev</item>
+        <item>Backend Dev</item>
+        <item>frontend Dev</item>
+        <item>Ios Dev</item>
+        <item>Python Dev</item>
+        <item>Full Stack Dev</item>
+        <item>Team Lead</item>
+    </string-array>
+
+
+</resources>
