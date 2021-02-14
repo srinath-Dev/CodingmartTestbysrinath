@@ -17,8 +17,8 @@
  
  <table>
   <tr>
-    <td>Forget password Screen/td>
-     <td>Holiday Home Screen </td>
+    <td>Forget password Screen</td>
+     <td>Home Screen </td>
      <td> Employee Table Screen </td>
   </tr>
   <tr>
