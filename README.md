@@ -65,6 +65,11 @@
  Backend: Java;
  Backend Database: Firebase Real time database;
  
-                      This app Authentication uses firebase custom email and password. And it consist of 6 modules employee table,timesheet screen and update, material screen, about, sign out, auth module. The datas are retrive from firebase realtime database and execute using recycler view in app. Basic CRUD operations are done.
+ 
+ 
+  This app Authentication uses firebase custom email and password. And it consist of 6 modules employee table,timesheet screen and update, material screen, about, sign out, auth module. The datas are retrive from firebase realtime database and execute using recycler view in app. Basic CRUD operations are done.
+  
+  Hackerrank profile: https://www.hackerrank.com/Black_Programmer?hr_r=1 
+  My official Portfolio Website: https://www.srinathdev.me/
  
 
