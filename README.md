@@ -32,9 +32,9 @@
  
  <table>
   <tr>
-    <td></td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Time Sheet Update</td>
+     <td> Time Sheet and Time Sheet History Screen</td>
+     <td> Material  Screen </td>
   </tr>
   <tr>
 
@@ -50,7 +50,7 @@
  
  <table>
   <tr>
-    <td>First Screen Page</td>
+    <td>First About Screen </td>
   </tr>
   <tr>
  <img src="https://github.com/srinath-Dev/CodingmartTestbysrinath/blob/master/Screenshot_1613318374.png" width="200" />
