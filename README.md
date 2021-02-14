@@ -50,7 +50,7 @@
  
  <table>
   <tr>
-    <td>First About Screen </td>
+    <td> About Screen </td>
   </tr>
   <tr>
  <td><img src="https://github.com/srinath-Dev/CodingmartTestbysrinath/blob/master/Screenshot_1613318374.png" width="200" /></td>
